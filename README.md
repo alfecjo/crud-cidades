@@ -3,6 +3,8 @@
 ### Objetivo
 
 #### 🌱 O objetivo geral foi desenvolver e capacitar-se para criar aplicações Web funcionais usando Java e o framework Spring Boot.
+#### (Login:john senha:test123) / ermissão:listar
+#### (Login:anna senha:test123) / ermissão:admin
 
 #### 📫 Tecnologias
 
